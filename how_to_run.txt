@@ -1,0 +1,26 @@
+How to run from a shell window:
+
+Open console (terminal, command.exe, whatever)
+
+Navigate to inside Assignment1 folder
+
+Compile the code:
+
+javac *.java
+
+Run the code:
+
+java Life 50 40 R
+
+In the line above, 50 represents the number of iterations, 40 represents the grid 
+size, and R represents the pattern type.
+
+for Penta-decathlon Oscillator pattern
+
+java Life 50 40 P
+
+for Simkin glider gun pattern
+
+java Life 50 40 S
+
+Don't forget, if you edit the code then recompile it before running.
