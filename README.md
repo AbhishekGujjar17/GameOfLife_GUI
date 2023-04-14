@@ -4,10 +4,28 @@ This is a Java program that simulates the Game of Life using random, penta-decat
 
 # How to Use
 
-Clone the repository using git clone 
-Navigate to the project directory using cd game-of-life
-Compile the program using javac GameOfLife.java
-Run the program using java GameOfLife and follow the prompts to select a configuration and set the number of generations to simulate.
+Clone the repository using git clone
+
+Navigate to the project directory
+
+Compile the code using javac *.java
+
+# Run the code:
+
+java Life 50 40 R
+
+In the line above, 50 represents the number of iterations, 40 represents the grid 
+size, and R represents the pattern type.
+
+for Penta-decathlon Oscillator pattern
+
+java Life 50 40 P
+
+for Simkin glider gun pattern
+
+java Life 50 40 S
+
+Don't forget, if you edit the code then recompile it before running.
 
 # Technologies Used
 
