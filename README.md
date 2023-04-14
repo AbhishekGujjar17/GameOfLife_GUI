@@ -2,6 +2,7 @@
 
 This is a Java program that simulates the Game of Life using random, penta-decathalon oscillator, and simkin gun glider configurations. 
 
+
 The Game of Life is a cellular automaton created by John Conway that follows simple rules to simulate the growth and death of cells on a two-dimensional grid.
 
 # How to Use
